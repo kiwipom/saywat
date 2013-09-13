@@ -32,3 +32,8 @@ Several reasons:
 **wat** (noun, internet): a response to something that makes absolutely no sense.
 
 **arvo** (noun, Australia): abbreviation for *afternoon*. Example: "will you be around this arvo?"
+
+
+
+**teched** (noun, Global): Microsoft's biggest bestest IT conference.
+
